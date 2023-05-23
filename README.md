@@ -1,4 +1,4 @@
-**Implementation of Various Optimizers for Linear Regression**
+# Implementation of Various Optimizers for Linear Regression
 
 This repository contains an implementation of different optimization algorithms from scratch using Python and NumPy. The focus of this project is to apply these optimizers to achieve linear regression on a given set of data points. The following optimizers have been implemented:
 
